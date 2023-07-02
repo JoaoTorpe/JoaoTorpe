@@ -10,11 +10,11 @@
    <img  align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+ 
 </div>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoTorpe&layout=compact)
 
-![giphy](https://user-images.githubusercontent.com/113739903/233843511-379fbd8f-0c06-424a-a3a9-daeea40537e4.gif)
 
 
 
