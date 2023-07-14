@@ -2,7 +2,7 @@
 <hearder>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
         </hearder>  
-
+![twelve-hangingout](https://github.com/JoaoTorpe/JoaoTorpe/assets/113739903/ea9f4e2e-6dd7-408d-86f8-cfca577a222f)
 
 - 🌱 I’m currently learning:   <div style="display: inline_block">
 
