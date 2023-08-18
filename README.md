@@ -18,7 +18,7 @@
             
 </div>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoTorpe&layout=compact)
+ ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaoTorpe&layout=compact)
 
 
 
