@@ -4,7 +4,7 @@
         </hearder>  
 
 
- <img src = "https://github.com/JoaoTorpe/JoaoTorpe/assets/113739903/ea9f4e2e-6dd7-408d-86f8-cfca577a222f">
+
 
 <div style="display: inline_block">
 
@@ -14,7 +14,8 @@
       <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
- <br> <br>
+   <img align="center"  width="60" src ="https://github.com/JoaoTorpe/JoaoTorpe/assets/113739903/6ab064d1-d60f-412f-9a03-588a5e815a97">
+ <br> 
             
 </div>
  
